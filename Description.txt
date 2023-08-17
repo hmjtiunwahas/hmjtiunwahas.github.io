@@ -1,0 +1,10 @@
+Nama : Hairudin Farid Sunanda
+NIM : 21103041039
+Fakultas / Prodi : Teknik / Teknik Informatika
+Asal Instansi : Universitas Wahid Hasyim Semarang
+No Whatsapp : 0821-2219-5303
+Blog : https://faridsunanda.github.io
+
+Website yang saya buat ini adalah website yang saya tujukan untuk organiasi
+PMII khususnya organisasi PMII Unwahas. Website ini saya bangun dengan menggunakan
+bahasa pemrograman seperti HTML, CSS, dan Javascript.
